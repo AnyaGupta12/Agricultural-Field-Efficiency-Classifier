@@ -81,8 +81,3 @@ We submitted the **Gradient Boosting Classifier** as the final model:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/foml-2024-hackathon.git
-   cd foml-2024-hackathon
